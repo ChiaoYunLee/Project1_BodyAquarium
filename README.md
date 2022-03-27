@@ -5,4 +5,4 @@
 ### | Introduction
 Body Aquarium is built to encourage college students to drink more water through playing interesting game. By recording how much water they drink in a day, players can get shells for buying fish food and renovating their own aquarium.
 ### | Techniques used in this project：Java, Java GUI, MySQL
-### | Mainly in charge of building recording page and the function behind it.
+### | Mainly in charge of building recording page and the functions behind it.
