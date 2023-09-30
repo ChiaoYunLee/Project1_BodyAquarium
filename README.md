@@ -18,8 +18,6 @@ Body Aquarium makes staying hydrated a delightful adventure. Set your daily wate
 - Aquatic Rewards: Unlock new decorations and unique fish as you consistently hit your target.
 - Health Tracking: Keep track of your daily progress and water intake history to stay motivated and on track.
 
-With Body Aquarium, staying hydrated becomes a game you'll love to play. Watch your virtual aquarium flourish and thrive as you prioritize your health and well-being. Every sip brings you one step closer to building the aquatic paradise of your dreams.
-
 #### | 🛠️ Techniques: Java | Java GUI | MySQL
 #### | 👩🏻‍💻 My Role: Building the recording page
 
