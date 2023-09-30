@@ -1,6 +1,6 @@
 ### Body Aquarium: Your Gateway to Hydration and Aquatic Adventure!
 #### | Course Project: Object-Oriented Programming II (2020.Freshman)
-<img width="50%" alt="截圖 2023-09-30 下午10 11 36" src="https://github.com/ChiaoYunLee/Project1_BodyAquarium/assets/58580554/bdedf447-9a22-4032-9e66-4079e88cf636">
+&nbsp;&nbsp;<img width="50%" alt="截圖 2023-09-30 下午10 11 36" src="https://github.com/ChiaoYunLee/Project1_BodyAquarium/assets/58580554/bdedf447-9a22-4032-9e66-4079e88cf636">
 
 #### | 🌊 Intro.
 Dive into a world where health meets entertainment with Body Aquarium, a Java app designed to transform your daily water intake into a captivating underwater journey. Say goodbye to forgetfulness and hello to a healthier, more hydrated you!
