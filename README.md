@@ -1,8 +1,25 @@
-# Side_Project1.BodyAquarium
-<img src="https://user-images.githubusercontent.com/58580554/159953441-60c1be71-8d90-4215-a847-3db91216a0bb.png" width = 35%>. 
-### | Course：Object Oriented Programming II (2020.Freshman, Group work)
-### | Goal：Encourage college students to drink water through playing this game.
-### | Introduction
-Body Aquarium is built to encourage college students to drink more water through playing interesting game. By recording how much water they drink in a day, players can get shells for buying fish food and renovate their own aquarium.
-### | Techniques used in this project：Java, Java GUI, MySQL
-### | Mainly in charge of building recording page and the functions behind it.
+### Body Aquarium: Your Gateway to Hydration and Aquatic Adventure!
+#### | Course Project: Object-Oriented Programming II (2020.Freshman)
+<img width="50%" alt="截圖 2023-09-30 下午10 11 36" src="https://github.com/ChiaoYunLee/Project1_BodyAquarium/assets/58580554/bdedf447-9a22-4032-9e66-4079e88cf636">
+
+#### | 🌊 Intro.
+Dive into a world where health meets entertainment with Body Aquarium, a Java app designed to transform your daily water intake into a captivating underwater journey. Say goodbye to forgetfulness and hello to a healthier, more hydrated you!
+
+In our fast-paced lives, it's all too easy to overlook the importance of staying hydrated. That's where Body Aquarium comes to the rescue. This unique app combines the vital task of drinking enough water with the joy of nurturing your very own virtual aquarium. It's not just a reminder to drink water; it's a delightful incentive to make hydration a rewarding habit.
+
+#### | 🐠 How it Works
+
+Body Aquarium makes staying hydrated a delightful adventure. Set your daily water intake goals, and let the app remind you at just the right times. As you meet your goals, you'll be rewarded with precious shells – the currency of your aquatic world. These shells are your ticket to decorating and personalizing your very own virtual aquarium.
+
+#### | 🌟 Features
+- Customizable Goals: Tailor your daily water intake goals to suit your unique needs and lifestyle.
+- Friendly Reminders: Receive timely and encouraging reminders to drink water throughout the day.
+- Aquarium Customization: Use your hard-earned shells to beautify and personalize your virtual aquarium.
+- Aquatic Rewards: Unlock new decorations and unique fish as you consistently hit your target.
+- Health Tracking: Keep track of your daily progress and water intake history to stay motivated and on track.
+
+With Body Aquarium, staying hydrated becomes a game you'll love to play. Watch your virtual aquarium flourish and thrive as you prioritize your health and well-being. Every sip brings you one step closer to building the aquatic paradise of your dreams.
+
+#### | 🛠️ Techniques: Java | Java GUI | MySQL
+#### | 👩🏻‍💻 My Role: Building the recording page
+
