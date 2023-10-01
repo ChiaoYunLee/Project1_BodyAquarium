@@ -5,7 +5,7 @@
 #### | 🌊 Intro.
 Dive into a world where health meets entertainment with Body Aquarium, a Java app designed to transform your daily water intake into a captivating underwater journey. Say goodbye to forgetfulness and hello to a healthier, more hydrated you!
 
-In our fast-paced lives, it's all too easy to overlook the importance of staying hydrated. That's where Body Aquarium comes to the rescue. This unique app combines the vital task of drinking enough water with the joy of nurturing your very own virtual aquarium. It's not just a reminder to drink water; it's a delightful incentive to make hydration a rewarding habit.
+<!--In our fast-paced lives, it's all too easy to overlook the importance of staying hydrated. That's where Body Aquarium comes to the rescue. This unique app combines the vital task of drinking enough water with the joy of nurturing your very own virtual aquarium. It's not just a reminder to drink water; it's a delightful incentive to make hydration a rewarding habit.-->
 
 #### | 🐠 How it Works
 Body Aquarium makes staying hydrated a delightful adventure. Set your daily water intake goals, and the app will remind you at just the right times. As you meet your goals, you'll be rewarded with precious shells – the currency of your aquatic world. These shells are your ticket to decorating and personalizing your very own virtual aquarium.
