@@ -12,7 +12,6 @@ Body Aquarium makes staying hydrated a delightful adventure. Set your daily wate
 
 #### | 🌟 Key Features
 - Customizable Goals: Tailor your daily water intake goals to suit your unique needs and lifestyle.
-- Friendly Reminders: Receive timely and encouraging reminders to drink water throughout the day.
 - Aquarium Customization: Use your hard-earned shells to beautify and personalize your virtual aquarium.
 - Aquatic Rewards: Unlock new decorations and unique fish as you consistently hit your target.
 - Health Tracking: Keep track of your daily progress and water intake history to stay motivated and on track.
